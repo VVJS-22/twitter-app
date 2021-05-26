@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/tweets";
+const URL = "https://twitter-clone-api-byjs.netlify.app/.netlify/functions/app/tweets";
 
 let nextPageUrl = null;
 
