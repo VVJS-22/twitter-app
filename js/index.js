@@ -1,4 +1,4 @@
-const URL = "https://twitter-clone-api-byjs.netlify.app/.netlify/functions/app/tweets";
+const URL = "https://twitter-api-jswithjs.herokuapp.com/tweets";
 
 let nextPageUrl = null;
 
